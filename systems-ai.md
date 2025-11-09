@@ -26,3 +26,4 @@ This page is here for teams who care how content scales, not just how it sounds.
 - Experiments in making system behaviour legible for users and stakeholders
 
 You can explore specific frameworks and examples in my case studies under **Work**.
+Explore my [AI Prompt Library](ai-prompt-library.md) for examples of structured prompting and evaluation.
