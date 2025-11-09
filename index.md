@@ -21,3 +21,5 @@ I care about clarity, safety, and the invisible systems that make content depend
 - Collaborated with researchers, PMs, and engineers on AI workflows, evaluation, and trust
 
 [View my selected work](work.md)
+[Credits](credits.md)
+
