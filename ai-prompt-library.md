@@ -10,7 +10,7 @@ These examples illustrate how I design language for LLM workflows inside enterpr
 ## 1. Diagnostic Prompts
 **Purpose:** Clarify ambiguous inputs without oversteering the model.  
 **Template:**
-> Given the user's query `{query}`, identify what product feature or intent they likely mean and respond with one clarifying question before giving an answer.
+> Given the user's query `{query}`, identify what product feature or intent they likely mean and respond with one clarifying question before answering.
 
 **Evaluation Criteria:**
 - Clarity of diagnostic question  
@@ -38,4 +38,6 @@ These examples illustrate how I design language for LLM workflows inside enterpr
 
 ---
 
-_These prompt families align with FrostLogic-style AI content design and Anthropic’s Constitutional AI principles._
+---
+
+[Home](index.md) · [Work](work.md) · [Systems & AI](systems-ai.md) · [Accessibility](accessibility.md) · [Credits](credits.md) · [Now](now.md)
