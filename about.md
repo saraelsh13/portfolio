@@ -22,3 +22,8 @@ My job is to make them legible, safe, and trustworthy.
   I design for clarity about risk, limitations, and impact, not just conversion.
 
 This portfolio is a working example of how I structure information for AI native teams.
+
+
+---
+
+[Home](index.md) · [Work](work.md) · [Systems & AI](systems-ai.md) · [Accessibility](accessibility.md) · [Credits](credits.md) · [Now](now.md)
