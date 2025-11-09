@@ -67,3 +67,9 @@ This page is here for teams who care how content scales, not just how it sounds.
 You can explore specific frameworks and examples in my case studies under **Work**.
 
 Explore my [AI Prompt Library](ai-prompt-library.md) for examples of structured prompting and evaluation.
+
+
+---
+
+[Home](index.md) · [Work](work.md) · [Systems & AI](systems-ai.md) · [Accessibility](accessibility.md) · [Credits](credits.md) · [Now](now.md)
+
