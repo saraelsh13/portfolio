@@ -7,6 +7,9 @@ title: "Systems and AI"
 
 This page is here for teams who care how content scales, not just how it sounds.
 
+![AI content workflow diagram](assets/ai-content-workflow.png)
+*Workflow illustrating content loops between docs, LLMs, and review systems.*
+
 ### Content operations for AI products
 
 - Source of truth models for concepts, entities, and terminology
