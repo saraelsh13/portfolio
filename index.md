@@ -23,3 +23,6 @@ I care about clarity, safety, and the invisible systems that make content depend
 [View my selected work](work.md)
 [Credits](credits.md)
 
+---
+
+[Home](index.md) · [Work](work.md) · [Systems & AI](systems-ai.md) · [Accessibility](accessibility.md) · [Credits](credits.md) · [Now](now.md)
