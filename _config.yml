@@ -1,0 +1,16 @@
+title: "Sara Elsharawy · AI Content Design & Systems"
+description: "AI-native content designer and systems thinker building trustworthy interfaces, docs, and language for complex products."
+theme: minima
+markdown: kramdown
+
+# Navigation
+header_pages:
+  - index.md
+  - work.md
+  - systems-ai.md
+  - writing.md
+  - about.md
+  - contact.md
+
+# Make URLs clean
+permalink: /:title/
