@@ -8,6 +8,42 @@ title: "Systems and AI"
 This page is here for teams who care how content scales, not just how it sounds.
 
 ![AI content workflow diagram](assets/ai-content-workflow.png)
+
+        ┌────────────────────────────┐
+        │        INPUTS              │
+        │  UX flows • APIs • Data    │
+        └────────────┬───────────────┘
+                     │
+                     ▼
+        ┌────────────────────────────┐
+        │   CONTENT DESIGN SYSTEM    │
+        │ IA • Templates • Tone • Docs│
+        └────────────┬───────────────┘
+                     │
+                     ▼
+        ┌────────────────────────────┐
+        │  AI & AUTOMATION LAYER     │
+        │ Prompts • Generation • Eval │
+        └────────────┬───────────────┘
+                     │
+                     ▼
+        ┌────────────────────────────┐
+        │ GOVERNANCE & REVIEW        │
+        │ Ethics • Bias • Accuracy   │
+        └────────────┬───────────────┘
+                     │
+                     ▼
+        ┌────────────────────────────┐
+        │ OUTPUT                     │
+        │ Docs • UI • Chat • Emails  │
+        └────────────┬───────────────┘
+                     │
+                     ▼
+        ┌────────────────────────────┐
+        │ FEEDBACK LOOP              │
+        │ Analytics • Edits • QA     │
+        └────────────────────────────┘
+
 *Workflow illustrating content loops between docs, LLMs, and review systems.*
 
 ### Content operations for AI products
