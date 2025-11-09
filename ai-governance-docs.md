@@ -34,4 +34,7 @@ Users. data scientists, compliance leads, platform admins, executives.
 - Clearer, more consistent messaging for model risk and limitations
 - A content foundation that can power UI, docs, and AI assistants from the same source
 
-**Relevant for**: Anthropic, GitBook, FrostLogic
+
+---
+
+[Home](index.md) · [Work](work.md) · [Systems & AI](systems-ai.md) · [Accessibility](accessibility.md) · [Credits](credits.md) · [Now](now.md)
