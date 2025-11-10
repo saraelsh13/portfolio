@@ -80,9 +80,9 @@ I led the effort to architect a partnership framework for internal content opera
 ---
 
 ### Reflection
-This project demonstrated that **content partnerships are design systems for people** — aligning not only content but relationships and incentives. The success relied less on enforcing rules and more on designing workflows that make good content behavior easy.
+This project demonstrated that **content partnerships are design systems for people** — aligning not only content but relationships and incentives. The success relied less on enforcing rules and more on designing workflows that make good content behaviour easy.
 
-This approach can scale across organisations like **Autodesk**, where internal partnerships between content, product, and design are essential to maintain a coherent experience across a complex product ecosystem.
+This approach can scale across organisations, where internal partnerships between content, product, and design are essential to maintain a coherent experience across a complex product ecosystem.
 
 ---
 
