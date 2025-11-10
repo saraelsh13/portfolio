@@ -7,10 +7,10 @@ title: "Contact"
 
 For roles and collaborations:
 
-- Email: [add your email here]
-- LinkedIn: [add your profile link]
-- GitHub: [your username]
-- CV: [link to your CV PDF in this repo]
+- Email: saraelsh13@gmail.com
+- LinkedIn: [Profile page](https://www.linkedin.com/in/saraelsharawy/)
+- GitHub: [New Page](https://github.com/saraelsh13)
+- Resume: [Link to living document](https://docs.google.com/document/d/1TzlMHjPV-udTO0YJBTMoNCfuWGM-OJkyIAxI0jo9QBo/edit?usp=sharing)
 
 I am especially interested in teams working on AI platforms, developer tools, safety, and knowledge systems.
 
