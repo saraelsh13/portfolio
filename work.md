@@ -10,7 +10,7 @@ I keep details anonymized where needed, while preserving process and decisions.
 
 ### 1. AI Governance Docs for Enterprise Platforms
 
-**Focus**: Developer docs, governance, complex IA, multi product alignment  
+**Focus**: Developer docs, governance, complex IA, multi-product alignment  
 **Signals for**: Anthropic, GitBook, FrostLogic
 
 What I cover in the full case study:
@@ -55,6 +55,12 @@ In the full breakdown:
 
 [Read the case study](docs-system.md)
 
+
+---
+
+### 5. Internal Content Partnerships  
+Cross-functional content governance and collaboration model for product teams.  
+[Read the case study →](internal-content-partnerships.md)
 
 ---
 
