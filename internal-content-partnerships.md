@@ -10,6 +10,9 @@ Large enterprise software ecosystems depend on clear, consistent internal conten
 
 The challenge was to build a **content partnership model** connecting product, engineering, and UX teams through shared content systems and governance practices.
 
+![Content partnership flow](architecture-diagram.svg)
+*Diagram showing internal stakeholders feeding into the content design system and completing the feedback cycle.*
+
 ---
 
 ### Goals
