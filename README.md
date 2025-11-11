@@ -1,5 +1,5 @@
 # Hi, I’m Sara Elsharawy  
-**Staff Content Designer | AI Documentation Architect | UX Systems Thinker**
+**Senior Content Designer | AI Documentation Architect | UX Systems Thinker**
 
 I design and document the invisible systems that make AI understandable, governable, and human-centric.  
 My work bridges engineering precision with editorial clarity—translating complex LLM, data, and API ecosystems into content models that scale trust and comprehension.
