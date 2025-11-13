@@ -1,9 +1,10 @@
 title: "Sara Elsharawy · AI Content Design & Systems"
 description: "AI-native content designer building trustworthy documentation and language for complex products."
-url: "https://<yourusername>.github.io/portfolio"
+url: "https://saraelsh13.github.io/portfolio"
 author: Sara Elsharawy
 theme: minima
 markdown: kramdown
+
 
 # Navigation
 header_pages:
