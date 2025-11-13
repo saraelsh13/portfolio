@@ -20,7 +20,6 @@ This portfolio is a living documentation site — showcasing how I apply design 
 - Collaborated with researchers, PMs, and engineers on AI workflows, evaluation, and trust
 
 [View my selected work](work.md)
-[Credits](credits.md)
 
 ---
 
