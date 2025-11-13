@@ -5,8 +5,7 @@ title: "Home"
 
 # AI content designer and systems thinker
 
-I design language, documentation, and interaction patterns for complex AI and data products.
-I care about clarity, safety, and the invisible systems that make content dependable.
+This portfolio is a living documentation site — showcasing how I apply design ethics, developer empathy, and technical clarity to transform complex platforms into usable knowledge.
 
 **Currently focused on**
 
@@ -24,5 +23,8 @@ I care about clarity, safety, and the invisible systems that make content depend
 [Credits](credits.md)
 
 ---
+
+- [About Me](./about/introduction.md)  ·  [Projects](./projects/)  ·  [Frameworks](./frameworks/)  ·  [Writing & Talks](./writing/)
+
 
 [Home](index.md) · [Work](work.md) · [Systems & AI](systems-ai.md) · [Accessibility](accessibility.md) · [Credits](credits.md) · [Now](now.md)
