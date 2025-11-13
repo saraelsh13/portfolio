@@ -1,0 +1,30 @@
+site_name: North Docs Sample
+site_description: Prototype documentation architecture inspired by Cohere North
+theme:
+  name: material
+nav:
+  - Overview:
+    - Introduction: docs/overview/intro.md
+    - Value Proposition: docs/overview/value-proposition.md
+    - Architecture: docs/overview/architecture.md
+  - Getting Started:
+    - Quickstart: docs/getting-started/quickstart.md
+    - Install and Deploy: docs/getting-started/install-deploy.md
+  - Features:
+    - Agents: docs/features/agents.md
+    - Chat: docs/features/chat.md
+    - Automations: docs/features/automations.md
+    - Search and Insights: docs/features/search-insights.md
+  - Security:
+    - Deployment Options: docs/security/deployment-options.md
+    - Access Control and Audit: docs/security/access-control-audit.md
+  - Reference:
+    - API and Connectors: docs/reference/api-connectors.md
+    - Models and Endpoints: docs/reference/models-endpoints.md
+  - Best Practices:
+    - Use Case Patterns: docs/best-practices/use-case-patterns.md
+    - Compliance and Governance: docs/best-practices/compliance-governance.md
+markdown_extensions:
+  - admonition
+  - toc:
+      permalink: true
