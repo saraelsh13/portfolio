@@ -4,7 +4,8 @@ url: "https://saraelsh13.github.io/portfolio"
 author: Sara Elsharawy
 theme: minima
 markdown: kramdown
-
+header_pages:
+  - index.md
 
 # Navigation
 header_pages:
