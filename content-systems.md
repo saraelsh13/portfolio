@@ -76,7 +76,7 @@ Customer outcomes + content-health metrics + continuous improvement
 
 - **AI governance documentation for enterprise platforms**. I designed information architecture, shared terminology, reusable content patterns, and governance for complex AI product knowledge. [Read the case study](ai-governance-docs.md)
 - **AI-assisted support knowledge system**. An independent prototype for turning fragmented support information into governed, AI-ready knowledge with automated checks and human oversight. [Explore the system](support-knowledge-system.md)
-- **Documentation engineering approach**. How I connect source files, standards, quality controls, and user tasks to make documentation reliable at scale. [Read the approach](documentation-engineering.md)
+- **Documentation as a product system**. How I connect source files, standards, quality controls, and user tasks to make documentation reliable at scale. [Read the approach](docs-system.md)
 
 ---
 
