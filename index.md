@@ -3,27 +3,55 @@ layout: page
 title: "Home"
 ---
 
-# AI content designer and systems thinker
+# Content systems designer for AI and SaaS products
 
-This portfolio is a living documentation site — showcasing how I apply design ethics, developer empathy, and technical clarity to transform complex platforms into usable knowledge.
+I build the infrastructure behind clear, trustworthy product knowledge. My work spans UX content, technical documentation, information architecture, governance, quality evaluation, and AI-assisted workflows.
 
-**Currently focused on**
+I help teams turn fragmented product information into systems that customers, Support Specialists, developers, and AI agents can find, understand, and use safely.
 
-- Scalable doc and knowledge systems for AI platforms  
-- LLM informed UX and explainability  
-- Ethical and governance-aware product content
+## What I build
 
-**Highlights**
+### Knowledge architecture for people and AI
 
-- Led content and docs for AI governance tools and data products at IBM
-- Built cross-product content frameworks that reduced duplication and improved discoverability
-- Collaborated with researchers, PMs, and engineers on AI workflows, evaluation, and trust
+Task-based navigation, content models, taxonomies, source-of-truth rules, and metadata that make product knowledge easier to discover, maintain, and retrieve.
 
-[View my selected work](work.md)
+### Documentation as a product surface
+
+Technical, conceptual, procedural, API, and troubleshooting content connected through real user workflows, reusable patterns, and versioned source files.
+
+### Content operations and governance
+
+Standards, templates, review cadences, ownership models, release-readiness checks, and cross-functional ways of working that keep content accurate at scale.
+
+### AI content quality and human oversight
+
+Retrieval-ready content, evaluation criteria, source traceability, confidence thresholds, escalation paths, and feedback loops that make AI-assisted experiences more dependable.
+
+## Selected work
+
+- **[AI governance documentation for enterprise platforms](ai-governance-docs.md)**  
+  Information architecture, shared language, reusable patterns, and governance for complex AI product knowledge.
+
+- **[AI-assisted support knowledge system](support-knowledge-system.md)**  
+  An independent prototype for governed support knowledge, AI quality checks, human review, and customer-outcome measurement.
+
+- **[Documentation as a product system](docs-system.md)**  
+  An approach to connecting product behaviour, source files, quality checks, release workflows, and user feedback.
+
+## How I work
+
+I treat content as an end-to-end system:
+
+```text
+Discover → Model → Design → Build → Govern → Evaluate → Measure → Improve
+```
+
+[Explore the full content-systems operating model](content-systems.md).
+
+## Background
+
+I bring enterprise experience across AI governance, data and developer documentation, financial-services content, accessibility, content standards, and cross-functional product delivery. My work has included collaboration with Product, Design, Engineering, Research, Legal, Compliance, and Support teams.
 
 ---
 
-- [About Me](./about/introduction.md)  ·  [Projects](./projects/)  ·  [Frameworks](./frameworks/)  ·  [Writing & Talks](./writing/)
-
-
-[Home](index.md) · [Work](work.md) · [Systems & AI](systems-ai.md) · [Accessibility](accessibility.md) · [Credits](credits.md) · [Now](now.md)
+[Work](work.md) · [Content Systems](content-systems.md) · [Systems & AI](systems-ai.md) · [Writing](writing.md)
