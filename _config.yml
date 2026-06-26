@@ -1,20 +1,17 @@
-title: "Sara Elsharawy · AI Content Design & Systems"
-description: "AI-native content designer building trustworthy documentation and language for complex products."
+title: "Sara Elsharawy | Content Systems and Documentation Engineering"
+description: "I build content infrastructure for complex AI and SaaS products: knowledge architecture, documentation, governance, evaluation, and AI-ready workflows."
 url: "https://saraelsh13.github.io/portfolio"
 author: Sara Elsharawy
 theme: minima
 markdown: kramdown
-header_pages:
-  - index.md
 
 # Navigation
 header_pages:
   - index.md
   - work.md
+  - content-systems.md
   - systems-ai.md
   - writing.md
-  - about.md
-  - contact.md
 
 # Make URLs clean
 permalink: /:title/
