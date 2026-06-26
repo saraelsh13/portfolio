@@ -1,8 +1,7 @@
 ---
-
 layout: page
 title: "Home"
--------------
+---
 
 # Content systems designer for AI and SaaS products
 
