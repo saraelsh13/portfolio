@@ -3,66 +3,66 @@ layout: page
 title: "Work"
 ---
 
-## Selected case studies
+# Selected content systems work
 
-Each project shows how I think through systems, constraints, and language for complex products.
-I keep details anonymized where needed, while preserving process and decisions.
+Each case study shows how I connect user needs, product complexity, information architecture, governance, and measurable outcomes. Some professional work is anonymised to respect confidentiality while preserving the decisions, methods, and system design.
 
-### 1. AI Governance Docs for Enterprise Platforms
+## 1. AI governance documentation for enterprise platforms
 
-**Focus**: Developer docs, governance, complex IA, multi-product alignment  
-**Signals for**: Anthropic, GitBook, FrostLogic
+**Professional experience · AI governance, technical documentation, information architecture**
 
-What I cover in the full case study:
+A complex enterprise AI environment needed a clearer path through product documentation, metrics, policies, APIs, and UI tasks. I helped establish shared language, task-based structure, reusable content patterns, and governance across product teams.
 
-- Content audit and problem framing. fragmented docs, unclear entry points, compliance needs
-- Information architecture that bridges APIs, UI tasks, and policies
-- Reusable patterns for risk disclosures, explainability, and model monitoring
-- Collaboration with legal, security, and engineering
+**Shows:** documentation strategy, AI governance, taxonomy, complex-product communication, technical collaboration, content operations.
 
 [Read the case study](ai-governance-docs.md)
 
 ---
 
-### 2. LLM Assistance and Prompting Patterns for Product UX
+## 2. AI-assisted support knowledge system
 
-**Focus**: LLM UX, prompt patterns, evaluation, human in the loop  
-**Signals for**: FrostLogic, Anthropic, Mercury
+**Independent portfolio prototype · Support knowledge, AI evaluation, human oversight**
 
-In the full breakdown:
+A governed knowledge-system concept for a technical SaaS Support organisation. It connects ticket signals, structured knowledge, AI-assisted retrieval, quality checks, escalation paths, content-gap management, and outcome measurement.
 
-- How I design prompt templates tied to product goals
-- Guardrail strategies, escalation paths, and failure messaging
-- Data and feedback loops to refine responses
+**Shows:** knowledge strategy, support information architecture, AI quality evaluation, governance, automation requirements, CSAT and first-contact-resolution measurement.
 
-[Read the case study](llm-ux-patterns.md)
+[Explore the system](support-knowledge-system.md)
 
 ---
 
-### 3. Fintech Onboarding and System Messages
+## 3. Documentation as a product system
 
-**Focus**: Clarity, risk messaging, empty states, transactional emails  
-**Signals for**: Mercury
+**Practice framework · Documentation engineering, docs-as-code, content quality**
 
-[Read the case study](fintech-onboarding.md)
+An operating model for making documentation reliable at scale through task-based structure, reusable content patterns, version history, review workflows, quality checks, and feedback loops.
 
----
+**Shows:** documentation engineering, content modelling, GitHub-based workflows, maintenance strategy, AI-ready knowledge design.
 
-### 4. Documentation System as Product
-
-**Focus**: Docs as a service, components, contribution models  
-**Signals for**: GitBook, Anthropic
-
-[Read the case study](docs-system.md)
-
+[Read the approach](docs-system.md)
 
 ---
 
-### 5. Internal Content Partnerships  
-Cross-functional content governance and collaboration model for product teams.  
-[Read the case study →](internal-content-partnerships.md)
+## 4. Financial-services content systems
+
+**Professional experience · Service content, accessibility, pattern design**
+
+Work across banking and insurance product experiences, focused on making policy-heavy processes easier to understand and act on. This includes clear decision support, accessible content, reusable patterns, and governance-aware language for customer-facing experiences.
+
+**Shows:** high-stakes content design, accessibility, service journeys, reusable patterns, stakeholder alignment, compliance-aware communication.
+
+*Detailed materials are available during a portfolio review where confidentiality permits.*
 
 ---
 
-[Home](index.md) · [Work](work.md) · [Systems & AI](systems-ai.md) · [Accessibility](accessibility.md) · [Credits](credits.md) · [Now](now.md)
+## The throughline
 
+Across these projects, I work from the same principle:
+
+> Product knowledge should be structured, owned, verifiable, and easy to use. This is essential whether the reader is a customer, a Support Specialist, a developer, or an AI system.
+
+[Explore my end-to-end content systems operating model](content-systems.md).
+
+---
+
+[Home](index.md) · [Content Systems](content-systems.md) · [Systems & AI](systems-ai.md) · [Writing](writing.md)
