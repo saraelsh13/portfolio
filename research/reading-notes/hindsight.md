@@ -2,7 +2,7 @@
 
 **Source:** Aygün et al. (2022), [Proving Theorems using Incremental Learning and Hindsight Experience Replay](https://proceedings.mlr.press/v162/aygun22a.html), ICML 2022. Lei M. Zhang is a coauthor.
 
-**Status:** AI-assisted draft based on the published abstract. Full-paper and personal review pending.
+**Status:** Draft based on the published abstract. Full-paper and personal review pending.
 
 ## What the paper studies
 

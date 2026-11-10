@@ -3,19 +3,7 @@ layout: page
 title: "Home"
 ---
 
-# Research and content systems
-
-I am a PhD student in Information at the University of Toronto. My research interests connect human–information interaction, reasoning under uncertainty, adaptive agents, and the evaluation of knowledge.
-
-## Research in progress
-
-**[Explore my research portfolio](https://github.com/saraelsh13/portfolio/tree/main/research)**
-
-The first project, **Which Question Next?**, compares how simple agents choose informative questions and examines what happens when the correct explanation is missing from their assumptions. It includes runnable Python, preliminary synthetic results, and an AI-assisted learning walkthrough.
-
-[Read the experiment and limitations](https://github.com/saraelsh13/portfolio/tree/main/research/which-question-next)
-
-## Content systems designer for AI and SaaS products
+# Content systems designer for AI and SaaS products
 
 I build the content infrastructure behind clear, trustworthy product knowledge.
 

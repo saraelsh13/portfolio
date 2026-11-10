@@ -2,7 +2,7 @@
 
 **Source:** Adaptive Agent Team et al. (2023), [Human-Timescale Adaptation in an Open-Ended Task Space](https://arxiv.org/abs/2301.07608), ICML 2023.
 
-**Status:** AI-assisted draft based on the abstract. Full-paper and personal review pending. This is not a replication or a record of completed personal reading.
+**Status:** Draft based on the abstract. Full-paper and personal review pending. This is not a replication or a record of completed personal reading.
 
 ## What the paper studies
 

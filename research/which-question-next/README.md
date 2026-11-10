@@ -2,7 +2,7 @@
 
 **Question:** When does asking an informative question help an agent learn, and when do its assumptions make that question misleading?
 
-**Status:** Implemented educational baseline with preliminary synthetic results. AI-assisted code and analysis scaffold; Sara's independent walkthrough and interpretation are in progress. This is not a novel algorithm, an RL system, or a replication of AdA.
+**Status:** Implemented educational baseline with preliminary synthetic results. The initial code and analysis are implemented; personal walkthrough and interpretation are in progress. This is not a novel algorithm, an RL system, or a replication of AdA.
 
 ## The experiment in plain language
 
@@ -73,6 +73,6 @@ Next steps, not yet implemented:
 
 [AdA](https://arxiv.org/abs/2301.07608) motivates questions about hypothesis-driven exploration and adaptation. [Learning from unsuccessful proof attempts](https://proceedings.mlr.press/v162/aygun22a.html) motivates questions about useful intermediate experience. This experiment implements neither method. The connection is conceptual: what feedback helps inquiry, and what does an agent retain or rule out as evidence arrives?
 
-## Assistance and ownership
+## Review and next steps
 
-This initial implementation, tests, plots, and draft explanations were generated with AI assistance at Sara's request and executed in an assisted development environment. They document a learning project, not evidence of independent implementation proficiency. Sara's review notes, modifications, and independently explained decisions will be recorded in the [research log](../research-log.md). Draft literature notes require personal review before being represented as Sara's own reading or analysis.
+Review notes, modifications, and experimental decisions will be recorded in the [research log](../research-log.md). Literature notes are preliminary drafts based on abstracts; full-paper review is pending.

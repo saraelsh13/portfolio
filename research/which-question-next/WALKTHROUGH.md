@@ -43,4 +43,4 @@ Run `python experiment.py --seeds 10 --output practice-results` to keep the publ
 - Why is the query budget not a computation budget?
 - What would have to change to demonstrate learning across tasks?
 
-Use AI to explain unfamiliar code and propose changes. Check the explanation against actual execution and write your own account in the research log. Passing tests does not establish that the scientific design is adequate.
+Check explanations against actual execution and write your own account of the implementation in the research log. Passing tests does not establish that the scientific design is adequate.

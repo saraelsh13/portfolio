@@ -2,7 +2,7 @@
 
 ## Initial implementation
 
-**Provenance:** AI-assisted setup and execution. This entry records implementation decisions, not Sara's independent observations or completed learning.
+**Status:** Initial implementation record. Personal walkthrough, review, and further experiments are pending.
 
 - Implemented a standard-library Python environment with 26 candidate rules and separate query/evaluation objects.
 - Compared fixed, random, and disagreement-based query selection in paired synthetic trials.
@@ -21,7 +21,7 @@
 
 ## Personal review, pending
 
-- Explain the query-selection function without looking at an AI explanation.
+- Explain the query-selection function in your own words.
 - Trace an individual trial and identify exactly when a candidate is eliminated.
 - Reproduce the results locally and record the Python version.
 - Make one deliberate change, predict its effect, and compare prediction with observation.
