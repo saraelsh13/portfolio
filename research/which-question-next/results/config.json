@@ -1,0 +1,18 @@
+{
+  "seed_ids": [
+    0,
+    99
+  ],
+  "trials_per_condition": 100,
+  "max_budget": 6,
+  "attributes": 4,
+  "query_pool_size": 12,
+  "heldout_size": 4,
+  "hypothesis_count": 26,
+  "strategies": [
+    "fixed",
+    "random",
+    "disagreement"
+  ],
+  "python_requirement": "3.10+"
+}

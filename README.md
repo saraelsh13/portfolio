@@ -1,4 +1,15 @@
 # Hi, I’m Sara Elsharawy  
+
+## Research portfolio
+
+I am a PhD student in Information at the University of Toronto, exploring how human and artificial agents interpret evidence, allocate effort, and learn under uncertainty.
+
+**[Explore the research portfolio](research/README.md)** · **[Run Which Question Next?](research/which-question-next/README.md)**
+
+The research section contains an AI-assisted educational experiment, reproducible preliminary results, draft literature notes, and a learning log. Personal review and extensions are in progress.
+
+## Content and systems practice
+
 **Senior Content Designer | AI Documentation Architect | UX Systems Thinker**
 
 I design and document the invisible systems that make AI understandable, governable, and human-centric.  
@@ -49,3 +60,4 @@ My work bridges engineering precision with editorial clarity—translating compl
 - 🌐 [LinkedIn](https://linkedin.com/in/saraelsharawy)  
 - 🧠 [Medium](https://medium.com/@saraelsharawy) — writing on AI, ethics, and design systems  
 - 💌 sara.elsharawy@proton.me  
+
